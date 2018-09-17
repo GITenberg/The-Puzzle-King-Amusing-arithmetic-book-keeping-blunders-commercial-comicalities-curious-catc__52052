@@ -1,11 +1,16 @@
 _repo: The-Puzzle-King-Amusing-arithmetic-book-keeping-blunders-commercial-comicalities-curious-catc__52052
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52052-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, John
     gutenberg_agent_id: '49197'
     url: http://www.gutenberg.org/2009/agents/49197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52052#The-Puzzle-King-Amusing-arithmetic-book-keeping-blunders-commercial-comicalities-curious-catc_
 gutenberg_issued: '2016-05-12'
 gutenberg_type: Text
 identifiers:
